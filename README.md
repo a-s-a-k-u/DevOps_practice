@@ -1,2 +1,2 @@
-# DevOps_practice_cloud-init
-Эта Ветка для наглядного показа Cloud-init
+# DevOps_practice
+Репозиторий предназначен для хранения всех проектов как-либо связанных с DevOps-ом.
